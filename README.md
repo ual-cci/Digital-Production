@@ -152,11 +152,11 @@ Using the methods from class, create a 300dpi poster in Photoshop that will serv
 ----
 
 ### Week 2
-Digital Imaging II --- Vectors  
-Working in Adobe Illustrator
+Digital Imaging II --- Digital Illustration / Painting  
+Character Design with Adobe Photoshop and Illustrator
 
 **Task 2:**
-Using the methods from class, design a set of 4 simple and original emojis.
+Using the methods from class, design a set of 4 simple and original emojis. These maybe self-portrait emojis or any object you are interested in.
 
 - Export your files as .png and;
 - Upload your emojis to your blog.
@@ -165,11 +165,11 @@ Using the methods from class, design a set of 4 simple and original emojis.
 ----
 
 ### Week 3
-Time-Based Work --- Sequential Images
-Creating GIFs and Loops in Adobe Photoshop
+Time-Based Work --- Sequential Images and Animation
+Creating GIFs and Videps in Adobe Photoshop and After Effects
 
 **Task 3:**
-Create a series of gifs. They can be related or individual discrete pieces.
+Create a series of gifs using the assets you created from Week 2. You may also create new objects to animate.
 
 - Upload your GIF files to your blog.
 - Upload your reflection and process from today's class to your blog.
@@ -177,7 +177,8 @@ Create a series of gifs. They can be related or individual discrete pieces.
 ----
 
 ### Week 4
-The Physical Camera --- Basics of Filmmaking
+The Physical Camera --- Basics of Filmmaking && 
+The Virtual Camera I --- Introducing the Z-Axis in After Effects
 
 **Task 4**:
 TBD
