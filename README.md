@@ -181,9 +181,10 @@ The Physical Camera --- Basics of Filmmaking &&
 The Virtual Camera I --- Introducing the Z-Axis in After Effects
 
 **Task 4**:
-TBD
-
-- Upload your reflection and process from today's class to your blog.
+- Create a 1-2 min. video using the techniques introduced in class.
+    + Using the loaned cameras, take three video shots (one medium range, one close up, and one establishing shot) of an interesting or unique aspect of your environment.
+    + Create a title sequence for your video composition in AE, add background music from [Free Music Archive](https://freemusicarchive.org) or [The YouTube Creator Studio Audio Library](https://support.google.com/youtube/answer/3376882?hl=en), and export this as a .mp4 file from Adobe Media Encoder.
+    + Upload your reflection and process from today's class to your blog.
 
 ----
 
