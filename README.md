@@ -211,7 +211,7 @@ Introduction to 3D Modelling II
 A deeper look into 3D Modelling looking at hair, physics and particle systems
 
 **Task 6**:
-TBD
+Reconstruct an image of your choosing
 
 - Upload your reflection and process from today's class to your blog.
 
@@ -221,7 +221,7 @@ TBD
 Texturing 3D Models
 
 **Task 7**:
-TBD
+Texture an entire character/creature you created
 
 - Upload your reflection and process from today's class to your blog.
 
@@ -231,7 +231,7 @@ TBD
 Basics of 3D Animation
 
 **Task 8**:
-TBD
+create a 30 second animation clip in blender 
 
 - Upload your reflection and process from today's class to your blog.
 
@@ -241,7 +241,7 @@ TBD
 The Virtual Camera
 
 **Task 9**:
-TBD
+create a sweeping camera shot of your scene 
 
 - Upload your reflection and process from today's class to your blog.
 
