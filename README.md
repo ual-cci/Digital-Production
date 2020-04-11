@@ -2,13 +2,13 @@
 
 ## Tutors
 - Dr. Irene Fubara-Manuel — i.fubaramanuel@arts.ac.uk  (Weeks 1 - 4)
-- Danielle Brathwaite-Shirley – email TBD (Week 5 onwards)
+- Danielle Brathwaite-Shirley – d.brathwaiteshirley@arts.ac.uk
 
 Mon from 13.30 - 17.30, B501-02 (refer to Celcat timetable for latest information https://mytimetable.arts.ac.uk/)  
 
 ## Office Hours
 Visit Irene's office hours: By appointment: Monday at 12:00-1:00 in B401C (CCI Offices on Level 4)  
-Visit Danielle's office hours: TBD
+Visit Danielle's office hours: By Appointment. please email me
 
 ----
 
