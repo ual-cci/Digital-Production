@@ -193,7 +193,13 @@ Introduction to 3D Modelling I
 Basics of 3D software and 3D modelling.
 
 **Task 5**:
-TBD
+Create a scene in blender with at least 2 characters a full landscape , at least one piece of furnature 
+
+render out 4 images
+-1 image  of entire scene
+-image of furnature
+-2 of each character with a description of the characters 
+
 
 - Upload your reflection and process from today's class to your blog.
 
@@ -201,6 +207,8 @@ TBD
 
 ### Week 6
 Introduction to 3D Modelling II
+
+A deeper look into 3D Modelling looking at hair, physics and particle systems
 
 **Task 6**:
 TBD
