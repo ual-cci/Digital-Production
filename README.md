@@ -221,10 +221,10 @@ Reconstruct an image of your choosing
 Texturing 3D Models
 
 **Task 7**:
-Texture an entire character/creature you created
+Texture an entire object created
 
 - Upload your reflection and process from today's class to your blog.
-
+-Upload the image to your blog
 ----
 
 ### Week 8
