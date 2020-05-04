@@ -231,7 +231,8 @@ Texture an entire object created
 Basics of 3D Animation
 
 **Task 8**:
-create a 30 second animation clip in blender 
+-create a 5-10 second (250 frames) animation clip in blender 
+-export it as a video clip and post it on your blog
 
 - Upload your reflection and process from today's class to your blog.
 
